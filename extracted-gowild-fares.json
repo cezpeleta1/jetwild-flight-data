@@ -1,0 +1,118 @@
+{
+  "source": "Saved Frontier HTML",
+  "mode": "offline_html_extraction",
+  "extractedAt": "2026-11-24T05:09:06.725Z",
+  "historicalObservation": true,
+  "live": false,
+  "scanCount": 1,
+  "candidateCount": 2,
+  "scans": [
+    {
+      "inputFile": "Select _ Frontier Airlines.html",
+      "inspectedFareRecords": 24,
+      "candidateCount": 2,
+      "flights": [
+        {
+          "origin": "LAX",
+          "destination": "LAS",
+          "departureTime": "2026-11-24T08:23:00",
+          "arrivalTime": "2026-11-24T09:38:00",
+          "flightNumber": 1184,
+          "carrier": "F9",
+          "stops": 0,
+          "goWildPrice": 128.99,
+          "currency": "USD",
+          "goWildEligible": true,
+          "legs": [
+            {
+              "carrier": "F9",
+              "flightNumber": 1184,
+              "origin": "LAX",
+              "destination": "LAS",
+              "departureTime": "2026-11-24T08:23:00",
+              "arrivalTime": "2026-11-24T09:38:00"
+            }
+          ],
+          "sourceVerified": false,
+          "canonicalQuoteReady": false
+        },
+        {
+          "origin": "LAX",
+          "destination": "LAS",
+          "departureTime": "2026-11-24T19:41:00",
+          "arrivalTime": "2026-11-24T20:57:00",
+          "flightNumber": 2334,
+          "carrier": "F9",
+          "stops": 0,
+          "goWildPrice": 128.99,
+          "currency": "USD",
+          "goWildEligible": true,
+          "legs": [
+            {
+              "carrier": "F9",
+              "flightNumber": 2334,
+              "origin": "LAX",
+              "destination": "LAS",
+              "departureTime": "2026-11-24T19:41:00",
+              "arrivalTime": "2026-11-24T20:57:00"
+            }
+          ],
+          "sourceVerified": false,
+          "canonicalQuoteReady": false
+        }
+      ]
+    }
+  ],
+  "fares": [
+    {
+      "origin": "LAX",
+      "destination": "LAS",
+      "departureTime": "2026-11-24T08:23:00",
+      "arrivalTime": "2026-11-24T09:38:00",
+      "flightNumber": 1184,
+      "carrier": "F9",
+      "stops": 0,
+      "goWildPrice": 128.99,
+      "currency": "USD",
+      "goWildEligible": true,
+      "legs": [
+        {
+          "carrier": "F9",
+          "flightNumber": 1184,
+          "origin": "LAX",
+          "destination": "LAS",
+          "departureTime": "2026-11-24T08:23:00",
+          "arrivalTime": "2026-11-24T09:38:00"
+        }
+      ],
+      "sourceVerified": false,
+      "canonicalQuoteReady": false,
+      "sourceFile": "Select _ Frontier Airlines.html"
+    },
+    {
+      "origin": "LAX",
+      "destination": "LAS",
+      "departureTime": "2026-11-24T19:41:00",
+      "arrivalTime": "2026-11-24T20:57:00",
+      "flightNumber": 2334,
+      "carrier": "F9",
+      "stops": 0,
+      "goWildPrice": 128.99,
+      "currency": "USD",
+      "goWildEligible": true,
+      "legs": [
+        {
+          "carrier": "F9",
+          "flightNumber": 2334,
+          "origin": "LAX",
+          "destination": "LAS",
+          "departureTime": "2026-11-24T19:41:00",
+          "arrivalTime": "2026-11-24T20:57:00"
+        }
+      ],
+      "sourceVerified": false,
+      "canonicalQuoteReady": false,
+      "sourceFile": "Select _ Frontier Airlines.html"
+    }
+  ]
+}
